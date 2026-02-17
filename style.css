@@ -88,12 +88,15 @@ nav ul li a:hover {
     text-align: center;
     padding: 5rem 2rem;
 }
-
+ 
 #inicio h2 {
     
-  -webkit-text-stroke: 2px red;
+  /*-webkit-text-stroke: 1px #FFADF3;*/
+
     font-size: 2.2rem;
     margin-bottom: 1rem;
+    color: #FFADF3;
+ 
 }
 
 #inicio p {
